@@ -6,6 +6,7 @@ module.exports = {
     'workspaces/cogito-encryption',
     'workspaces/cogito-identity',
     'workspaces/cogito-attestations',
+    'workspaces/cogito-react-ui',
     'workspaces/telepath-js',
     'workspaces/telepath-queuing-service',
     'workspaces/demo-app',
